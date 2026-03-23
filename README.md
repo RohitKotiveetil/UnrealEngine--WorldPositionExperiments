@@ -1,4 +1,4 @@
-# WorldPositionExperiments
+# World Position Experiments
 A collection of simple experiments using the Absolute World Position node
 
 Status: Work-in-progress
